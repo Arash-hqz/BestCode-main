@@ -8,5 +8,12 @@ export default {
     extend: {},
   },
   plugins: [],
+  backgroundImage: {
+
+   'icon': "url('./icon-time.png')"
+
+
+
+  }
 }
 

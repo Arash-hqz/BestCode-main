@@ -11,7 +11,9 @@ import Register from './screens/Register/Register'
 import Root from './components/Root/Root'
 import NotFound from './components/NotFound/NotFound'
 import Error from './components/Error/Error'
-const router = createBrowserRouter([
+
+
+ const router = createBrowserRouter([
     {
       path:'/',
       element: <Root />,
