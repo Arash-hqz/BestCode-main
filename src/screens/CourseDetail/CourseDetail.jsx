@@ -217,7 +217,7 @@ const CourseDetail = () => {
          <div className=" w-[177px] h-[199px] flex flex-wrap absolute bottom-[36px] right-[118px] ">
           
             <div className=" w-[135px] h-[135px] m-auto border rounded-full shadow-[0_4px_4px_0px_rgba(0,0,0,0.4)] ">
-            <img src={images.mehdi} className="  w-[135px] h-[135px]  "/>
+            <img src={images.mehdi} className="  w-[135px] h-[135px]   "/>
 
             </div>
             
